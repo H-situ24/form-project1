@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#frm{
+    width: 650px;
+    height: 1500px;
+    background-color: lightgrey;
+    margin-left: 500px;
+}
+#bc{
+    background-color: black;
+    height: 1600px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-family: algerian;
+    font-weight: bold;
+    color: crimson;
+    text-shadow: 3px 3px 3px black;
+    font-size: 50px;
+    margin-top: 20px;
+}
+hr{
+    width: 85%;
+    height: 2px;
+    background-color: black;
+    margin-left: 45px;
+}
+.f1{
+    margin-left: 50px;
+    font-weight: bold;
+    width: 550px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.f2{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    color: blue;
+    margin-top: 30px;
+}
+#address{
+    margin-left: 50px;
+}
+#gender{ 
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+    color: blue;
+    margin-bottom: -40px; 
+} 
+
+fieldset{
+    margin-left: 30px;
+}
+#gender1{
+    margin-left:100px;
+}
+#gender{
+    margin-top:50px;
+}
+
+fieldset #gender1{
+    margin-top: 50px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#hobbi{ 
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+    color: blue;
+    margin-bottom: -40px; 
+}
+fieldset #hobbies{
+    margin-top: 50px;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+#btn{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: antiquewhite;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    margin: 30px;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 30px;
+    font-family: algerian;
+    font-weight: bold;
+    cursor: pointer;
+}
+#btn1{
+    margin-left: 120px;
+}
+#btn2{
+    margin-left: 60px;
+}
